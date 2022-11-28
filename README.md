@@ -11,3 +11,5 @@ The API used here is [ViaCEP](https://viacep.com.br/), which is very popular in 
 * Get into the folder
 * Run `yarn && yarn dev`
 * Go to `http://localhost:5173/` and enjoy
+
+P.s.: This app is also deployed on [Vercel](https://buscador-cep-mathcpimenta.vercel.app/), check it out
